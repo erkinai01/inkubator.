@@ -94,7 +94,7 @@
         <footer class="py-8 border-t border-slate-800/50 mt-auto">
             <div class="max-w-5xl mx-auto px-6 text-center">
                 <p class="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Жоба авторы</p>
-                <p class="text-slate-300 font-medium">Исаханова Еркинай Кайыпрахмановна</p>
+                <p class="text-slate-300 font-medium">Қуатбайұлы Сұлтан; Жетекшісі:Исаханова Еркинай Кайыпрахмановна</p>
             </div>
         </footer>
     </div>
